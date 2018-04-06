@@ -1,0 +1,5 @@
+<select [(ngModel)]="value" class="form-control" [name]="moname" [id]="id" style="width:65%">
+    <option>Select</option>
+    <option *ngFor="let data of datas" [ngValue]="data.value" >{{data.name}}</option>
+</select>
+<input type="text" [name]="levelName" [id]="levelId" class="form-control" maxlength="3" style="width:65%;height:60%" >

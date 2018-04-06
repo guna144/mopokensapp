@@ -1,0 +1,30 @@
+[
+    {
+        "name" : "Fire",
+        "value": "Fire"
+    },
+    {
+        "name" : "Water",
+        "value": "Water"
+    },
+    {
+        "name" : "Grass",
+        "value": "Grass"
+    },
+    {
+        "name" : "Electric",
+        "value": "Electric"
+    },
+    {
+        "name" : "Psychic",
+        "value": "Psychic"
+    },
+    {
+        "name" : "Ghost",
+        "value": "Ghost"
+    },
+    {
+        "name" : "Fighting",
+        "value": "Fighting"
+    }
+]
